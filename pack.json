@@ -1,0 +1,10 @@
+{
+  "name": "Hollow Knight LoFi Ambience",
+  "description": "BGM for Audio Loader",
+  "author": "N/A",
+  "version": "v1.0",
+  "manifest_version": 2,
+  "music": true,
+  "ignore": [],
+  "mappings": {}
+}
